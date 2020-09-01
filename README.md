@@ -47,6 +47,7 @@ After the program loads, the user is presented with a "Time sync..." notificatio
   ![Clock_h1](./clock_h1.jpg)
   ![Clock_h2](./clock_h2.jpg)
 + Press Button A adjust the screen brightness, 0-100% in increments of 20%. The default power-on brightness is 60%.
++ Press Button B to sync with the NTP server if the time is for some reason not in sync
 + Press Button A and Button B simultaneously to flip the screen to the other horizontal orientation
 
 -----------------------------------------------------------------
