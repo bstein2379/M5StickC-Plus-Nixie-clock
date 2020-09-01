@@ -21,6 +21,7 @@ The objective of this project was to implement the Nixie tube clock using the M5
 
 
 ### Future Functionality (WIP)
++ Add a selectable configuration parameter for 12 or 24 hour clock
 + Add the date in nixie digits
 + Source additional nixie digits and symbols to implement other ideas (TBD)
 
